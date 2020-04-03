@@ -1,0 +1,89 @@
+body {
+    text-align: left;
+    font-family: Merriweather, Arial, Helvetica, sans-serif;
+    color: black;
+    background: url(https://images.squarespace-cdn.com/content/v1/5d5ea7971814e80001ec20ff/1585410173122-0N14ZFK7Y4H2IKR8CNAH/ke17ZwdGBToddI8pDm48kOzYD4qrgQDS5mM8wV0NMaIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc9ivGJObJMVXfVf0OZry-BKORPWLZfDOp49XZ-6UM6brE80AJig79rziGQWsaoK4K/contentPicTatttooInk.jpg?format=1000w) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    margin: 15px 0px 0px 15px;
+    font-size: 26px;
+}
+
+hr {
+    border-top: 1px solid;
+    margin: 0px 25px 25px 25px;
+}
+
+.logo {
+    width: 600px;
+    padding: 50px 50px 0px 50px;
+    margin: 50px auto 15px auto;
+    background-color: rgba(250, 220, 180, 0.80);
+    border-radius: 25px;
+}
+
+.form-content {
+    width: 600px;
+    padding: 25px 25px 50px 25px;
+    margin: 0px auto 25px auto;
+    background-color: rgba(250, 220, 180, 0.80);
+    border-radius: 25px;
+}
+
+.form-input {
+    display: block;
+    width: 550px;
+    height: 2.5rem;
+    position: relative;
+    margin: auto auto 15px auto;
+    padding: 5px 10px;
+    color: sienna;
+    background-color: moccasin ;
+    border: 1px solid rgb(167, 130, 113);
+    border-radius: 0.25rem;
+}
+
+.f-element p {
+    margin: 0px 0px -10px 0px;   
+}
+
+.f-element2 p {
+    margin: -10px auto auto auto;
+}
+
+.f-element3 p {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.f-element3 input {
+    margin-right: 10px;
+}
+
+input[type=submit] {
+    display: block;
+    width: 550px;
+    margin: 0px auto;
+    background-color: sienna;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+textarea {
+    display: block;
+    margin: 0px auto;
+    padding: 5px 10px;
+    color: sienna; 
+}
+
+#description {
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center; 
+}
